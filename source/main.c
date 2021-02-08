@@ -17,7 +17,7 @@ int main(int argv, char* argc[])
 	} else if ( strcmp( argc[1], "p" ) == 0 )
 	{
 		int sumNumber=checkNum(argc[2]);
-		printf( "Number %s's correct ckeck code is \"%d\".\n", argc[2], sumNumber);
+		printf( "Number %s's correct check code is \"%d\".\n", argc[2], sumNumber);
 		return 0;
 	} else {
 		printf( "Inputted incorrectly, please try again.\n");
