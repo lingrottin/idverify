@@ -16,6 +16,6 @@ A C-based program that uses to verify Chinese's ID numbers
   $ cd idverify && make
   $ sudo make install
   ```
-  You can also execute file `idverify` directly from dierctory `idverify/sources` after making.
+  You can also execute file `idverify` directly from directory `idverify/sources` after making.
   
 
