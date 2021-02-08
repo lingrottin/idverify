@@ -1,5 +1,5 @@
 # IDVERIFY
-A C-based program that uses to verify Chinese's ID numbers
+A C-based program that uses to verify Chinese's ID numbers <br />
 ##Usage
 * Verify number <br />
   ```bash
